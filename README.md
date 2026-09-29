@@ -54,6 +54,12 @@ The dashboard tracks opportunities through stages including:
 
 ## 💡 Key Skills Demonstrated
 
+
+
+## 📸 Dashboard Preview
+
+![Dashboard Overview](./dashboard%20overview%20screenshot.png)
+
 - Business Analysis
 - Data Analysis
 - Data Modeling
