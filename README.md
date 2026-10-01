@@ -70,13 +70,7 @@ The dashboard tracks opportunities through stages including:
 - Sales Pipeline Analysis
 - Data Visualization
 
-  ## Key Business Findings
-
-- West generated the highest won sales value.
-- East had the highest open pipeline.
-- Electronics Manufacturing had the highest closed-opportunity win rate.
-- RFQ had the highest average deal value.
-- Existing Customer Upsell had the highest closed win rate.
+ 
 
 ## 🚀 How to Use
 
